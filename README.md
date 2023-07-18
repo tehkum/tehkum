@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hello 🙏 , I'm <a href="https://tehkum.netlify.app/">Tehkum</a></h1>
+
+📌 I'm currently learning Web Development.
+
+📌 I've done many projects in react.js.
+
+📌 I'm a curious soul always ready to learn new technologies and programming languages.
+
+📌 I've seven months of experience as a frontend developer intern in Socialveins pvt ltd.
+
+## Tech Stack
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+
+
+## Connect with me
+<a href='https://twitter.com/TehkumK' target='_blank'> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="twitter"/></a>
+<a href='https://www.linkedin.com/in/tehkum-k-83941a149/' target='_blank'> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+
 
 <!--
 **tehkum/tehkum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
