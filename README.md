@@ -13,10 +13,13 @@
 
 ## Github Statistics
 <div>
-<a href='https://github.com/romabulani/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tehkum&theme=slateorange&show_icons=true&hide_border=false&layout=compact' alt="tehkum" height="200"></img></a>
+<a href='https://github.com/tehkum/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tehkum&theme=slateorange&show_icons=true&hide_border=false&layout=compact' alt="tehkum" height="200"></img></a>
 
 
-<a href='https://github.com/romabulani/github-readme-stats'><img src='https://github-readme-streak-stats.herokuapp.com/?user=tehkum&theme=slateorange&hide_border=false' alt="romabulani"></img></a>
+<a href='https://github.com/tehkum/github-readme-stats'><img src='https://github-readme-streak-stats.herokuapp.com/?user=tehkum&theme=slateorange&hide_border=false' alt="romabulani"></img></a>
+</div>
+
+<a href='https://github.com/tehkum/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=tehkum&theme=slateorange&show_icons=true&hide_border=false&count_private=true' alt="romabulani"></img></a>
 </div>
 
 
